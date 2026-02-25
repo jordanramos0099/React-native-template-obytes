@@ -112,7 +112,7 @@ We value the feedback and contributions of our users, and we encourage you to le
 - [Tailwind Variants](https://www.tailwind-variants.org/)
 - [Zod](https://zod.dev/)
 
-## Contributors
+## Contributorss
 
 This starter is maintained by [Obytes mobile tribe team](https://www.obytes.com/team) and we welcome new contributors to join us in improving it. If you are interested in getting involved in the project, please don't hesitate to open an issue or submit a pull request.
 
